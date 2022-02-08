@@ -1,0 +1,15 @@
+$ $aaabbaaa$
+a a
+b b
+a Xa
+b Xb
+aXa X
+bXb X
+bX Xb
+aX Xa
+Xa aX
+Xb bX
+X$ h
+h$ $
+$ $ 
+

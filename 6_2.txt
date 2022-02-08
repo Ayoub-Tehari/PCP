@@ -1,0 +1,22 @@
+$ $aaabaaab$
+a A
+a a
+b b
+b B
+aA Aa
+Aa aA
+aB Ba
+Ba aB
+bB Bb
+Bb bB
+bA Ab
+Ab bA
+AA q
+BB q
+qq q
+q$ $
+a$ h
+b$ h
+h$ $
+$ $ 
+

@@ -1,0 +1,37 @@
+$ $aaabaaab$
+aa X
+bb Y
+ab Z
+ba K
+
+XY YX
+XZ ZX
+XK KX
+
+YX XY
+YZ ZY
+YK KY
+
+ZX XZ
+ZY YZ
+ZK KZ
+
+KX XK
+KY YK
+KZ ZK
+
+$XX $
+$YY $
+$ZZ $
+$KK $
+
+a$ h
+b$ h
+h$ $
+$ $ 
+
+
+X X
+Y Y
+Z Z
+K K
